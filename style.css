@@ -48,3 +48,13 @@ body {
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
 }
+
+.footer-text {
+    font-family:  'Press Start 2P', cursive;
+    color: #EFEFEF;
+    font-size: small;
+    position:absolute;
+    bottom:5px;
+    left:50%;
+    transform: translateX(-50%);
+}
